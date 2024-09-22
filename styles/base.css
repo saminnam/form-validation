@@ -1,0 +1,27 @@
+/**
+*
+* base.css
+* @author - Innam
+* @date - 26/05/2023
+**/
+
+body {
+  background-color: #F7FCF9;
+  color: #000;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 38px;
+  margin-bottom: 35px;
+}
+
+a {
+  color: #05a82e;
+  font-size: 16px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}

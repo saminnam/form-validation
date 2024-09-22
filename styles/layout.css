@@ -1,0 +1,15 @@
+/**
+*
+* layout.css
+* @author - Innam
+* @date - 26/05/2023
+**/
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.cell-1 {
+  flex: 1;
+}

@@ -1,0 +1,38 @@
+/**
+*
+* style.css
+* @author - Innam
+* @date - @6/05/2023
+**/
+
+.register-box {
+    width: 360px;
+    background-color: #FFF;
+    margin: 4% auto 0 auto;
+    box-sizing: border-box;
+    padding: 35px 50px 30px 50px;
+}
+
+.icon-leaf {
+    font-size: 40px;
+    color: #05a82e;
+    text-align: center;
+}
+
+.question {
+    color: #737373;
+    padding: 25px 0 8px;
+}
+
+.login-box {
+    width: 360px;
+    box-sizing: border-box;
+    margin: 4% auto 0 auto;
+    padding: 40px 50px 30px 50px;
+    background-color: #FFF;
+}
+
+.title {
+    font-size: 47px;
+    text-align: center;
+}

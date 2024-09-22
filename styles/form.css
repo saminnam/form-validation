@@ -1,0 +1,26 @@
+/**
+*
+* form.css
+* @author - Innam
+* @date - 26/05/2023
+**/
+
+.primary-btn {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 6px;
+    background-color:  #05a82e;
+    border: 1px solid  #05a82e;
+    border-radius: 7px;
+    color: #FFFF;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.text-field {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 16px 12px 15px;
+    border: 1px solid  #e6e6e6;
+    border-radius: 7px;
+}
